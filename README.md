@@ -33,7 +33,6 @@ const developer = {
 - 🌱 &nbsp; Deep-diving into **System Design**, **Microservices**, and **Cloud Infrastructure**
 - 💡 &nbsp; Passionate about writing **clean code**, **scalable architecture**, and **great developer experience**
 - 🤝 &nbsp; Open to **collaborating** on interesting open-source projects
-- 📫 &nbsp; Reach me at: **your.email@gmail.com**
 - ⚡ &nbsp; Fun fact: **Coffee + Code = Magic ☕**
 
 ---
