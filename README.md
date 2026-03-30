@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%20there!%20I'm%20[Tien Phan]%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%20there!%20I'm%20[Tien Phan]%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20Scalable%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Java+%26+TypeScript+Enthusiast+%E2%9C%A8;Building+Scalable+Backend+Systems+%F0%9F%94%A7;Crafting+Elegant+Frontend+Experiences+%F0%9F%8E%A8;Always+Learning%2C+Always+Shipping+%F0%9F%93%A6)](https://git.io/typing-svg)
@@ -9,8 +9,8 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=0e75b6)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=phanvantien2907&style=for-the-badge&color=0e75b6)
+[![GitHub followers](https://img.shields.io/github/followers/phanvantien2907?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/phanvantien2907)
 
 </div>
 
